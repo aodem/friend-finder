@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/aodem/friend-finder/issues"
   },
-  "homepage": "https://github.com/aodem/friend-finder#readme"
+  "homepage": "https://github.com/aodem/friend-finder#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  }
 }
