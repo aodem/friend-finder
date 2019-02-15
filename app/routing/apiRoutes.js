@@ -32,8 +32,6 @@ module.exports = (app) => {
             }
             count += 1
 
-            console.log(exitComparison, finalArr, sumNum, bestMatch, count, score)
-
             if(count < exitComparison){
                matchMaker(newUserArray, friends[count]) 
             } 
